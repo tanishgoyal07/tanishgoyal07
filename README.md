@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanishgoyal07
-- 👀 I’m interested in Coding and Problem Solving
+- 👀 I’m interested in Coding and Problem Solving and building my skills as an APP developer
 - 🌱 I’m currently pursuing my ECE form JIIT Noida
 - 📫 How to reach me:-
      LinkedIn : www.linkedin.com/in/tanishgoyal
